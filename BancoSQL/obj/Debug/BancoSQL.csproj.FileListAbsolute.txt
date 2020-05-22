@@ -1,0 +1,14 @@
+C:\Users\lugui\source\repos\BancoSQL\BancoSQL\obj\Debug\BancoSQL.Detalhes.resources
+C:\Users\lugui\source\repos\BancoSQL\BancoSQL\obj\Debug\BancoSQL.Form1.resources
+C:\Users\lugui\source\repos\BancoSQL\BancoSQL\obj\Debug\BancoSQL.Properties.Resources.resources
+C:\Users\lugui\source\repos\BancoSQL\BancoSQL\obj\Debug\BancoSQL.sobre.resources
+C:\Users\lugui\source\repos\BancoSQL\BancoSQL\obj\Debug\BancoSQL.SQLCadastrar.resources
+C:\Users\lugui\source\repos\BancoSQL\BancoSQL\obj\Debug\BancoSQL.SQLVisualizar.resources
+C:\Users\lugui\source\repos\BancoSQL\BancoSQL\obj\Debug\BancoSQL.csproj.GenerateResource.cache
+C:\Users\lugui\source\repos\BancoSQL\BancoSQL\obj\Debug\BancoSQL.csprojAssemblyReference.cache
+C:\Users\lugui\source\repos\BancoSQL\BancoSQL\bin\Debug\Guia Referencia SQL.exe.config
+C:\Users\lugui\source\repos\BancoSQL\BancoSQL\bin\Debug\Guia Referencia SQL.exe
+C:\Users\lugui\source\repos\BancoSQL\BancoSQL\bin\Debug\Guia Referencia SQL.pdb
+C:\Users\lugui\source\repos\BancoSQL\BancoSQL\obj\Debug\Guia Referencia SQL.exe
+C:\Users\lugui\source\repos\BancoSQL\BancoSQL\obj\Debug\Guia Referencia SQL.pdb
+C:\Users\lugui\source\repos\BancoSQL\BancoSQL\obj\Debug\BancoSQL.Modificar.resources
